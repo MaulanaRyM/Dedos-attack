@@ -6,6 +6,8 @@ Ddos Attack
 
 $pkg install python2
 
+$pkg install git
+
 $cd Dedos-attack
 
 $chmod 777 dedeos.py
